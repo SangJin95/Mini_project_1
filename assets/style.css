@@ -1,0 +1,13 @@
+# {
+    scroll-behavior: smooth;
+}
+
+
+li {
+    display: inline;
+    padding: 1% 5%; 
+}
+
+a {
+    cursor: grabbing;
+}
